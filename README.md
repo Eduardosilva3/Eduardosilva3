@@ -11,3 +11,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/java/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/j/22/java.svg" alt="java" width="40" height="40"/> </a> 
