@@ -17,4 +17,8 @@
 <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/s/91/spring.svg" alt="spring" width="50" height="50"/> </a> 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardosilva3&layout=compact)](https://github.com/EduardoSilva3/github-readme-stats)
+<div>
+<a href="https://github.com/Eduardosilva3">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardosilva3&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardosilva3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
