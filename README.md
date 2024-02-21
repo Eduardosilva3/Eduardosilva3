@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Eduardo Silva 👩🏻‍💻</h1>
+<h1 align="center">Hello! I'm Eduardo Silva </h1>
 <h3 align="center">A young man who is very fond of algorithms and logic..</h3>
 
 
